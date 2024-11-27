@@ -1,5 +1,5 @@
-# DelhiveryFeatureEngineering
-Processed and cleaned logistics data, consolidating source-to-destination records. Performed EDA to identify significant differences between expected and actual time/distance, impacting customer satisfaction and revenue. Recommended improving expected accuracy and optimizing transport/hub facilities for better efficiency.
+# Problem Statement:
+Fragmented logistics data, involving multiple hubs and sub-hubs, requires consolidation into streamlined source-to-destination records. Additionally, discrepancies between OSRM-estimated and actual time/distance impact customer satisfaction and revenue, highlighting the need for accurate predictions and operational optimizations.
 # Data Cleaning & Integration: 
 Processed and consolidated complex logistics data by grouping multiple data points into single source-to-destination records, ensuring cleaner and more manageable datasets for analysis.
 # Exploratory Data Analysis (EDA): 
